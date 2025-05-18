@@ -9,9 +9,4 @@ Ez egy kétszemélyes zártpályás amőba játék, grafikus felülettel.
 - Új játék gomb
 - Játéklogika külön osztályban (`JatekMester`)
 - Minden vizuális komponens `Widget` leszármazott
-- Teljesíti a beadandó összes formai követelményét
 
-## Fordítás
-
-```bash
-make
